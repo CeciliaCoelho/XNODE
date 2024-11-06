@@ -1,4 +1,4 @@
-# **"XNODE: A XAI Suite Using Time Series, State Space, and Vector Field Plots to Understand Neural Ordinary Differential Equations"; C. Coelho, M. Fernanda P. Costa, L.L. Ferrás**
+# **"XNODE: A XAI Suite Using Time Series, State Space, and Vector Field Plots to Understand Neural Ordinary Differential Equations"; C. Coelho, M. Fernanda P. Costa, L.L. Ferrás; [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4691417)** 
 
 
 Like traditional NNs, Neural ODEs are black-box models making it a challenge to interpret and understand its decision-making process, raising concerns about their application in critical domains. In the literature, efforts towards using XAI techniques to improve Neural ODE explainability have been used. Since the result of training Neural ODE is an ODE model, in this work we go back to the roots and propose a novel approach by leveraging the inherent nature of DEs inside Neural ODEs. 
